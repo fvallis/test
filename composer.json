@@ -1,0 +1,14 @@
+{
+    "name": "fvallis/test",
+    "description": "a test composer project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fvallis",
+            "email": "qqshiduosh@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
